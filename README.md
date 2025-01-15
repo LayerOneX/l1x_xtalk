@@ -1,2 +1,2 @@
-# X-Talk (Open Sourced in March 2025)
+# X-Talk (Open Source in March 2025)
  
